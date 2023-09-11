@@ -6,14 +6,14 @@ export const data = [
     id: 1,
     name: "Netflix-Clone Project",
     image: Netflix,
-    github: "",
+    github: "https://github.com/abishekm101/Netflix-Clone",
     live: "",
   },
   {
     id: 2,
     name: "Personal portfolio_CV",
     image: Portfolio,
-    github: "",
+    github: "https://github.com/abishekm101/Portfolio_CV",
     live: "",
   },
 ];
