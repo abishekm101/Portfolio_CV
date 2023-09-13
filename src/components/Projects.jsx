@@ -35,7 +35,7 @@ const Projects = () => {
                   {item.name}
                 </span>
                 <div className="pt-8 text-center">
-                  <a href="/" target="_blank">
+                  <a href={item.github} target="">
                     <button
                       className="text-center rounded-lg px-4 py-3 m-2
                       bg-pink-600 text-gray-300 font-bold text-lg"

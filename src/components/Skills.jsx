@@ -11,10 +11,10 @@ const Skills = () => {
   return (
     <div
       name="skills" id="skills"
-      className="bg-[#0a192f] md:bg-[#0a192f] text-gray-300 mt-10  pt-16 sm:pt-6 w-full h-screen"
+      className="bg-[#0a192f] md:bg-[#0a192f] text-gray-300 pb-20 w-full h-screen"
     >
       {/* Container */}
-      <div className=" mx-auto  bg-[#0a192f]  w-full max-w-[1000px] md:p-24 p-4">
+      <div className=" mx-auto  bg-[#0a192f]  w-full max-w-[1000px] md:p-24">
         <div>
           <p className="text-4xl font-bold inline border-b-4 border-pink-600 ">
             Skills
